@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a84084c3-dde9-45d9-bda6-bd0bb4ae93a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ENERO-JUNIO 2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Asignatura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Balon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Boleta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Boleto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Computadora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/DemoConstructor_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/DemoString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainAsignatura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainBoleta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainClases.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainDemoConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainMouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Manzana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Profesionista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Asignatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Balon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoConstructor_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainAsignatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainBoleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainClases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainDemoConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPersonaArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manzana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Profesionista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERSONA/src/MainPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hola/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2scr5mUlpw5s4k4dygl1Wijzg8f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoString.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainBoleta.executor": "Run",
+    "Application.MainClases.executor": "Run",
+    "Application.MainPersonaArrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/diego/Documents/Tareas/POO/POO-MASTER/ENERO-JUNIO 2025/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainPersonaArrays">
+    <configuration name="DemoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoString" />
+      <module name="ENERO-JUNIO 2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPersonaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainPersonaArrays" />
+      <module name="ENERO-JUNIO 2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainPersonaArrays" />
+        <item itemvalue="Application.DemoString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84084c3-dde9-45d9-bda6-bd0bb4ae93a3" name="Changes" comment="" />
+      <created>1738765534273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738765534273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MainPersonaArrays.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
