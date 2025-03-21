@@ -5,48 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a84084c3-dde9-45d9-bda6-bd0bb4ae93a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ENERO-JUNIO 2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Asignatura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Balon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Boleta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Boleto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Computadora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/DemoConstructor_01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/DemoString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainAsignatura.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainBoleta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainClases.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainDemoConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/MainMouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Manzana.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Mouse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ENERO-JUNIO 2025/Profesionista.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Asignatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Balon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoConstructor_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainAsignatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainBoleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainClases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainDemoConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainPersonaArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manzana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Profesionista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PERSONA/src/MainPersona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BancaEstu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoHerencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoHerenciaConstructores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainNumeroALetras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumeroALetras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hola/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,34 +31,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2scr5mUlpw5s4k4dygl1Wijzg8f" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DemoString.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainBoleta.executor": "Run",
-    "Application.MainClases.executor": "Run",
-    "Application.MainPersonaArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/diego/Documents/Tareas/POO/POO-MASTER/ENERO-JUNIO 2025/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBoleta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClases.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainNumeroALetras.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPersonaArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/diego/Documents/Tareas/POO/POO-MASTER/ENERO-JUNIO 2025/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainPersonaArrays">
+}</component>
+  <component name="RunManager" selected="Application.MainNumeroALetras">
     <configuration name="DemoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoString" />
+      <module name="ENERO-JUNIO 2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNumeroALetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainNumeroALetras" />
       <module name="ENERO-JUNIO 2025" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainNumeroALetras" />
         <item itemvalue="Application.MainPersonaArrays" />
         <item itemvalue="Application.DemoString" />
       </list>
