@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a84084c3-dde9-45d9-bda6-bd0bb4ae93a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BancaEstu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoHerencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoHerenciaConstructores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainNumeroALetras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumeroALetras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo_Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_Interfaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_Interfaz_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoHerenciaConstructores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoHerenciaConstructores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hola/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,42 +35,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DemoString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainBoleta.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainClases.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainNumeroALetras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainPersonaArrays.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/diego/Documents/Tareas/POO/POO-MASTER/ENERO-JUNIO 2025/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoString.executor": "Run",
+    "Application.Ejercicio_Interfaz (1).executor": "Run",
+    "Application.Ejercicio_Interfaz (2).executor": "Run",
+    "Application.Ejercicio_Interfaz (3).executor": "Run",
+    "Application.Ejercicio_Interfaz.executor": "Run",
+    "Application.Ejercicio_Interfaz_2 (1).executor": "Run",
+    "Application.Ejercicio_Interfaz_2 (2).executor": "Run",
+    "Application.Ejercicio_Interfaz_2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainBoleta.executor": "Run",
+    "Application.MainClases.executor": "Run",
+    "Application.MainNumeroALetras.executor": "Run",
+    "Application.MainPersonaArrays.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/diego/OneDrive/Documents/Java/PRACTICA",
+    "onboarding.tips.debug.path": "C:/Users/diego/Documents/Tareas/POO/POO-MASTER/ENERO-JUNIO 2025/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
-  <component name="RunManager" selected="Application.MainNumeroALetras">
-    <configuration name="DemoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoString" />
+}]]></component>
+  <component name="RunManager" selected="Application.Ejercicio_Interfaz_2 (2)">
+    <configuration name="Ejercicio_Interfaz (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_Interfaz" />
       <module name="ENERO-JUNIO 2025" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainNumeroALetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainNumeroALetras" />
+    <configuration name="Ejercicio_Interfaz (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_Interfaz" />
       <module name="ENERO-JUNIO 2025" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPersonaArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainPersonaArrays" />
+    <configuration name="Ejercicio_Interfaz_2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_Interfaz_2" />
+      <module name="ENERO-JUNIO 2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_Interfaz_2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_Interfaz_2" />
+      <module name="ENERO-JUNIO 2025" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_Interfaz_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio_Interfaz_2" />
       <module name="ENERO-JUNIO 2025" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,9 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainNumeroALetras" />
-        <item itemvalue="Application.MainPersonaArrays" />
-        <item itemvalue="Application.DemoString" />
+        <item itemvalue="Application.Ejercicio_Interfaz_2 (2)" />
+        <item itemvalue="Application.Ejercicio_Interfaz_2 (1)" />
+        <item itemvalue="Application.Ejercicio_Interfaz_2" />
+        <item itemvalue="Application.Ejercicio_Interfaz (3)" />
+        <item itemvalue="Application.Ejercicio_Interfaz (2)" />
       </list>
     </recent_temporary>
   </component>

@@ -9,6 +9,9 @@ class Animal{
     String tipo_nacimiento;
 
     public Animal(){}
+
+    public Animal(String especie, String tipoNacimiento) {
+    }
 }
 
 class Elefante extends Animal{

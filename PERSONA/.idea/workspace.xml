@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="354dc158-504d-43f3-a659-13eebf2589b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/BancaEstu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/DemoHerencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/DemoHerenciaConstructores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/MainNumeroALetras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/src/NumeroALetras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ENERO-JUNIO 2025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ENERO-JUNIO 2025/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hola/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2swcJ55pA2Af9B4o9RgFR5t2ghm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/.jdks/.openjdk-23.0.2.intellij&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/diego/Documents/Tareas/POO/POO-MASTER/PERSONA/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="354dc158-504d-43f3-a659-13eebf2589b5" name="Changes" comment="" />
+      <created>1739370017812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739370017812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
